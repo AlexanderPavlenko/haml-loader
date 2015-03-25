@@ -1,0 +1,20 @@
+{
+  "name": "haml-loader",
+  "version": "0.1.0",
+  "description": "haml loader module for webpack",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AlexanderPavlenko/haml-loader.git"
+  },
+  "author": "Alexander Pavlenko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AlexanderPavlenko/haml-loader/issues"
+  },
+  "homepage": "https://github.com/AlexanderPavlenko/haml-loader",
+  "dependencies": {
+    "haml-coffee": "^1.14.1",
+    "loader-utils": "0.2.x"
+  }
+}
